@@ -1,0 +1,4 @@
+pyinputplus
+requests
+pydantic
+matplotlib
